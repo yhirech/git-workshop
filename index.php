@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hello world !';
+cassé: echo 'Hello world !';
